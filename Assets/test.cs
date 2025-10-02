@@ -8,6 +8,8 @@ public class test : MonoBehaviour
 
     public static float heart;
 
+    public GameObject Balona;
+
     // Start is called before the first frame update
     void Start()
     {
